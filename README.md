@@ -12,3 +12,5 @@ It uses pickel to store data.
 - shows weekly weight difference
 - Changes Maitanance Calorie automaticly
 
+For more infomation visit: https://gregoryzelikman.de/project/gymDietHelper.html
+
